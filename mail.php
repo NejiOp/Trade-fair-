@@ -54,7 +54,7 @@ $txt_user = '
         <table>
             <tr>
                 <th>Venue</th>
-                <td>Napu Hall, Mumbai</td>
+                <td>Shree Lakhamshi Napoo Hall, Matunga</td>
             </tr>
             <tr>
                 <th>Date</th>
@@ -67,8 +67,8 @@ $txt_user = '
         </table>
         <p>Company Website: <a href="http://www.weandyoudecor.com">www.weandyoudecor.com</a></p>
         <p>Best regards,</p>
-        <p>We and You Decor Team</p>
-        <img src="https://example.com/your-image.jpg" alt="Trade Fair">
+        <p>We and You Events Team</p>
+        <img src="./We___You_black LOGO__.png" alt="Trade Fair">
     </div>
 </body>
 </html>
