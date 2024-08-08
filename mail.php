@@ -78,6 +78,6 @@ $txt_user = '
 mail($to_user, $subject_user, $txt_user, $headers_user);
 
 // Thank you message
-$message = "Thank you for your submission! We will get back to you shortly.";
+$message = "Thank You for Your Registration, Please Check you registered mail id for more details";
 echo "<script>alert('$message'); window.location.href = 'contact.html';</script>";
 ?>
